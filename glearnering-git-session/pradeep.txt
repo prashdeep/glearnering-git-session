@@ -1,0 +1,5 @@
+git add pradeep.txt 
+ move the changes from working directory to staging area 
+
+git commit -m "committing the changes"
+git push origin master

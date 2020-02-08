@@ -3,7 +3,7 @@ This is sunil as first commit
 second time 
 Jayamalini - My first changes
 My changes which I assume that will be committed to the repositry.
-Biswajit added to the common file
+Biswajit added to the common fildoinge
 Meenakshi
 Ravi Kumar M
 My changes which I assume that will be committed to the repositry.--Prafulla Jadhav
@@ -17,4 +17,10 @@ aditya
 kapil G
 
 Doing some changes to the common file in the dev-pradeep branch
+<<<<<<< HEAD
 Ravi Changes from dev-ravi branch
+=======
+changes done by meenakshi
+Doing changes by jayamalini
+another change done by meenakshi
+>>>>>>> cae2c95884f511d23c1a7b17c193861a9739e8e5
