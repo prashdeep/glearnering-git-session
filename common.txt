@@ -18,3 +18,5 @@ kapil G
 
 Doing some changes to the common file in the dev-pradeep branch
 Changes in the Kapil Branch
+
+Changed as per review comments -Kapil
