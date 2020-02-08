@@ -7,7 +7,12 @@ Biswajit added to the common file
 Meenakshi
 Ravi Kumar M
 My changes which I assume that will be committed to the repositry.--Prafulla Jadhav
+<<<<<<< HEAD
 
 to demonstrate the conflicts
 
+=======
+to demonstrate the conflicts
+aditya
+>>>>>>> 940044f918d417ffbfdfdfcd2616696e4cff4537
 
