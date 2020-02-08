@@ -17,10 +17,8 @@ aditya
 kapil G
 
 Doing some changes to the common file in the dev-pradeep branch
-<<<<<<< HEAD
-Ravi Changes from dev-ravi branch
-=======
 changes done by meenakshi
 Doing changes by jayamalini
 another change done by meenakshi
->>>>>>> cae2c95884f511d23c1a7b17c193861a9739e8e5
+
+changes for another commit merge
